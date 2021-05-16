@@ -128,7 +128,7 @@ h1 {
 @media (max-width: 800px) {
   h1 {
     font-size: 2rem;
-    top: 30%;
+    top: 40%;
   }
 
   .btn {
@@ -136,3 +136,4 @@ h1 {
     width: 12rem;
   }
 }
+

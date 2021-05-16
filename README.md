@@ -4,7 +4,7 @@
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards]https://github.com/Soumikbhatta/50Projects50Days/tree/main/01.%20Expanding%20Cards)                             | [Demo](https://soumikbhatta.github.io/50Projects50Days/01.%20Expanding%20Cards/index.html)               |
+| 01  | [Expanding Cards](https://github.com/Soumikbhatta/50Projects50Days/tree/main/01.%20Expanding%20Cards)                             | [Demo](https://soumikbhatta.github.io/50Projects50Days/01.%20Expanding%20Cards/index.html)               |
 | 02  | [Progress Steps](https://github.com/Soumikbhatta/50Projects50Days/tree/main/02.%20Progress%20Steps)                               | [Demo](https://soumikbhatta.github.io/50Projects50Days/02.%20Progress%20Steps/index.html)                |
 | 03  | [Rotating Navigation](https://github.com/Soumikbhatta/50Projects50Days/tree/main/03.%20Rotating%20Navigation)                       | [Demo](https://soumikbhatta.github.io/50Projects50Days/03.%20Rotating%20Navigation/index.html) |
 | 04  | [Hidden Search](https://github.com/Soumikbhatta/50Projects50Days/tree/main/04.%20Hidden%20Search)                          | [Demo](https://soumikbhatta.github.io/50Projects50Days/04.%20Hidden%20Search/index.html/)          |

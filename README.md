@@ -1,6 +1,6 @@
 # 10Projects10Days
 
-10 Projects In 10 Days - HTML, CSS &amp; JavaScript
+Simple JS Projects for Practice - HTML, CSS &amp; JavaScript
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |

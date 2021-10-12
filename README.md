@@ -1,4 +1,4 @@
-# 10Projects10Days
+# MiniJsProjects
 
 Simple JS Projects for Practice - HTML, CSS &amp; JavaScript
 
